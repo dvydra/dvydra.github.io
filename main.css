@@ -1,11 +1,29 @@
 h1 {
-    font-size: 400%;
-    margin-top: 24%;
-    margin-left: 45%;
+  font-size: 400%;
+  margin-top: 24%;
+  margin-left: 45%;
 }
 
-div {
-    position: absolute;
-    right: 0;
-    top: 97%;
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.who {
+  position: absolute;
+  right: 0;
+  padding-right: 10px;
+  top: 97%;
+}
+
+.wtf {
+  color: lightgray;
+  position: absolute;
+  left: 0;
+  padding-left: 10px;
+  top: 97%;
 }
