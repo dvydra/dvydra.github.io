@@ -16,19 +16,18 @@ a:hover {
   text-align: center;
 }
 
-.who {
+.bottom {
   position: absolute;
-  font-size: 150%;
-  right: 0;
-  padding-right: 10px;
   top: 90%;
 }
 
+.who {
+  right: 0;
+  padding-right: 10px;
+}
+
 .wtf {
-  position: absolute;
-  font-size: 150%;
   color: lightgray;
   left: 0;
   padding-left: 10px;
-  top: 90%;
 }
